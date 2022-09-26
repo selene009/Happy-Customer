@@ -1,1 +1,24 @@
-![](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=happy%20gif&step_word=&hs=0&pn=21&spn=0&di=7136437450519347201&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3030669920%2C3557428501&os=3664260929%2C654420222&simid=3030669920%2C3557428501&adpicid=0&lpn=0&ln=1564&fr=&fmq=1664179293535_R&fm=result&ic=&s=undefined&hd=&latest=&copyright=&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fwww.clipartbest.com%2Fcliparts%2F4c9%2F6KX%2F4c96KXBpi.gif%26refer%3Dhttp%3A%2F%2Fwww.clipartbest.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Dauto%3Fsec%3D1666771574%26t%3D014bd33080a6beb854ed53e9d8cc285f&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bvstrw6pkjfp_z%26e3Bv54AzdH3Fwgt4wpj1-iwrry-2tu&gsm=1600000000000016&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&dyTabStr=MCwzLDIsNiwxLDQsNSw3LDgsOQ%3D%3D)
+![](https://github.com/selene009/neAPr9EsNi93TAni/blob/main/src%3Dhttp___www.clipartbest.com_cliparts_4c9_6KX_4c96KXBpi.gif%26refer%3Dhttp___www.clipartbest.gif)
+# **Happy Customer**
+&nbsp;
+### *Introduction*
+One of the fastest growing startups in the logistics and delivery domain wants to  predict what makes customers happy or unhappy.
+>>Data Describe
+
+Y = target attribute (Y) with values indicating 0 (unhappy) and 1 (happy) customers
+X1 = my order was delivered on time
+X2 = contents of my order was as I expected
+X3 = I ordered everything I wanted to order
+X4 = I paid a good price for my order
+X5 = I am satisfied with my courier
+X6 = the app makes ordering easy for me
+
+Attributes X1 to X6 indicate the responses for each question and have values from 1 to 5 where the smaller number indicates less and the higher number indicates more towards the answer.
+
+
+
+
+
+
+
+
